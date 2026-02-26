@@ -1,0 +1,29 @@
+[2026-02-26T00:55:18.089Z] Starting dev server with command: pnpm run dev
+[2026-02-26T00:55:18.751Z] 
+[2026-02-26T00:55:18.751Z] > curriculo_davi@1.0.0 dev /home/ubuntu/curriculo_davi
+[2026-02-26T00:55:18.752Z] > vite --host
+[2026-02-26T00:55:18.752Z] 
+[2026-02-26T00:55:19.230Z] 
+[2026-02-26T00:55:19.231Z] VITE v7.1.9  ready in 440 ms
+[2026-02-26T00:55:19.231Z] 
+[2026-02-26T00:55:19.231Z] ➜  Local:   http://localhost:3000/
+[2026-02-26T00:55:19.232Z] ➜  Network: http://169.254.0.21:3000/
+[2026-02-26T00:56:45.507Z] 7:56:45 PM [vite] (client) page reload index.html
+[2026-02-26T00:56:58.644Z] 7:56:58 PM [vite] (client) page reload index.html
+[2026-02-26T00:58:11.221Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-02-26T01:25:19.778Z] 8:25:19 PM [vite] vite.config.ts changed, restarting server...
+[2026-02-26T01:25:19.861Z] 8:25:19 PM [vite] server restarted.
+[2026-02-26T01:25:19.862Z] 
+[2026-02-26T01:25:19.862Z] ➜  Local:   http://localhost:3000/curriculo-davi/
+[2026-02-26T01:25:19.862Z] ➜  Network: http://169.254.0.21:3000/curriculo-davi/
+[2026-02-26T01:31:47.934Z] 8:31:47 PM [vite] vite.config.ts changed, restarting server...
+[2026-02-26T01:31:47.935Z] 8:31:47 PM [vite] (client) page reload index.html
+[2026-02-26T01:31:47.945Z] 8:31:47 PM [vite] server restarted.
+[2026-02-26T01:31:47.945Z] 
+[2026-02-26T01:31:47.946Z] ➜  Local:   http://localhost:5173/
+[2026-02-26T01:31:47.946Z] ➜  Network: http://169.254.0.21:5173/
+[2026-02-26T01:31:56.602Z] 8:31:56 PM [vite] (client) page reload client/index.html
+[2026-02-26T01:31:56.712Z] 8:31:56 PM [vite] changed tsconfig file detected: /home/ubuntu/curriculo_davi/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-02-26T01:32:24.268Z] 8:32:24 PM [vite] (client) page reload index.html
+[2026-02-26T01:32:24.367Z] 8:32:24 PM [vite] changed tsconfig file detected: /home/ubuntu/curriculo_davi/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-02-26T01:32:24.368Z] 8:32:24 PM [vite] (client) page reload client/index.html
