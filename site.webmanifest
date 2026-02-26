@@ -1,0 +1,18 @@
+{
+  "name": "Curriculo - Davi Romauski Meurer",
+  "short_name": "Curriculo Davi",
+  "description": "Curriculo de Davi Romauski Meurer, Engenheiro de Software e entusiasta de IA.",
+  "start_url": "/curriculo-davi/",
+  "scope": "/curriculo-davi/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/curriculo-davi/assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

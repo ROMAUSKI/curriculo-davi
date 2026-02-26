@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://romauski.github.io/curriculo-davi/sitemap.xml

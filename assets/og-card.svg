@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Curriculo de Davi Romauski Meurer</title>
+  <desc id="desc">Card de compartilhamento com nome, cargo e contatos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1080" cy="110" r="180" fill="#06b6d4" fill-opacity="0.15"/>
+  <circle cx="120" cy="580" r="220" fill="#8b5cf6" fill-opacity="0.12"/>
+
+  <rect x="64" y="72" width="220" height="56" rx="28" fill="url(#accent)"/>
+  <text x="174" y="108" fill="#ffffff" font-size="30" text-anchor="middle" font-family="Poppins, Inter, Arial, sans-serif" font-weight="700">
+    Curriculo
+  </text>
+
+  <text x="64" y="235" fill="#ffffff" font-size="72" font-family="Poppins, Inter, Arial, sans-serif" font-weight="700">
+    Davi Romauski Meurer
+  </text>
+  <text x="64" y="305" fill="#67e8f9" font-size="40" font-family="Poppins, Inter, Arial, sans-serif" font-weight="600">
+    Engenheiro de Software | Entusiasta de IA
+  </text>
+
+  <text x="64" y="390" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, sans-serif">
+    Experiencia em ERP, suporte tecnico e projetos web.
+  </text>
+  <text x="64" y="438" fill="#cbd5e1" font-size="30" font-family="Inter, Arial, sans-serif">
+    Aberto a oportunidades em tecnologia e Inteligencia Artificial.
+  </text>
+
+  <rect x="64" y="490" width="560" height="72" rx="16" fill="#111827" stroke="#334155"/>
+  <text x="94" y="536" fill="#e2e8f0" font-size="30" font-family="Inter, Arial, sans-serif">
+    daviromauski@gmail.com  |  (46) 99900-7451
+  </text>
+</svg>
